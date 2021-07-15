@@ -1,6 +1,6 @@
 # Ridiculously Simple Vue (using CLI) + App Engine
 
-A ridiculously simple App Engine boilerplate for when you just want to start making stuff.
+A ridiculously simple Vue (CLI) + App Engine boilerplate for when you just want to start making stuff.
 
 No backend. Everything goes through the .yaml file. 
 
