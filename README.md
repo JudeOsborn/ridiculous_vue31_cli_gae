@@ -9,24 +9,24 @@ Okay, fine, this is not as ridiculously simple as it could be since it uses CLI.
 The /dist folder is deployed to App Engine, which requires a build (see below).
 
 ## Setup
-```
-npm install
-```
+
+	npm install
+
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
-```
+
+	npm run serve
+
 
 ### Compiles and minifies for production
-```
-npm run build
-```
+
+	npm run build
+
 
 ### Lints and fixes files
-```
-npm run lint
-```
+
+	npm run lint
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
